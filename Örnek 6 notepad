@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Bağlı Fontlar(Relative Fonts)</title>
+</head>
+<body><P>Bu normal body metnidir.</P>
+<P><font size="+1">Bu size="+1" olan metindir.</font></P>
+<P><BIG>Bu size="+1" olan metindir.</BIG></P>
+<P><font size="+2">Bu size="+2" olan metindir.</font></P>
+<P><BIG><BIG>Bu metin iki tane BIG etiketi ile yazılmıştır.<BIG></BIG></P>
+<P><font size="-1">Bu size="-1" olan metindir.</font></P>
+< SMALL>Bu metin SMALL etiketi ile yazılmıştır.</SMALL></P>
+<p><FONT 2">Bu size="+2" olan metindir.</FONT></p>
+<P><SMALL><SMALL>Bu metin iki tane SMALL etiketi ile
+yazılmıştır.</SMALL></SMALL></P>
+</head>
+</html>
+

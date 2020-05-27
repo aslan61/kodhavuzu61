@@ -1,0 +1,15 @@
+<!Doctype html>
+<head>
+ <title>Başlık Etiketleri</title>
+</head>
+<body>
+ <h1><center>Sayfaya Hoşgeldiniz</h1>
+ <p>Html derslerine hoşgeldiniz..ilk dersimiz body,html</p>
+ Yazıları
+ <b>koyu</b>
+ <i>italik</i>
+ ve
+ <u>altı çizili</u>
+ olarak yazabiliyorum
+ </body>
+ </html>

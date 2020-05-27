@@ -1,0 +1,13 @@
+<!Doctype html>
+<html>
+<head><title>Metin Biçimlendirme Örneği</title></head>
+<h1>Metin Biçimleri</h1>
+<STRONG>Güçlü Vurgu Strong etiketiyle oluşturuyoruz</STRONG>
+<BR>
+<B>Kalın B(Bolt) Gibi Gözüküyor</B>
+<!-- bir Sonraki etiket yatay çizgi oluşturur.-->
+<HR>
+<EM>Vurgu EM(Emphasis) Metni </EM>
+ <BR><I>İtalik I(Italıc) gibi gözüküyor.</I>
+</HR>
+</html>

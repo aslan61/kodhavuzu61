@@ -1,0 +1,10 @@
+<HTML>  <HEAD>
+<TITLE>Untitled Document</TITLE></HEAD>
+<MAP name="harita">
+<AREA shape=rect coords="55, 59, 135, 165" href=image1.htm alt=image1.htm>
+<AREA shape=poly coords="29, 215, 29, 175, 71, 186, 112, 211, 76, 227, 95, 259, 40, 244" href="image2.htm" alt="image2.htm">
+<AREA shape="circle" coords="160, 208, 35" href=“image3.htm” alt=“image3.htm“>
+</MAP>
+<BODY>
+<IMG src="Nilüfer çiçekleri.jpg" width="232" height="308" usemap=#harita border="0">
+</BODY> </HTML>
